@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a undergraduate in Computer Engineering at Ho Chi Minh City University of Technology.
+
 <!--
 **leloc0609/leloc0609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
