@@ -8,3 +8,7 @@ I'm a undergraduate in Computer Engineering at Ho Chi Minh City University of Te
 - 🌱 I’m currently learning ML and AI
 - 📫 How to reach me: lelocofficial@gmail.com
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :----------- | :------------: | ------------: |
+| git status   |   git status   |    git status |
+| git diff     |    git diff    |      git diff |
