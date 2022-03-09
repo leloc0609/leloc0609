@@ -14,5 +14,4 @@ My Top Languages Card <br>
 Repos GitHub Extra Pins<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leloc0609&theme=bear&repo=HCMUT-DSA)](https://github.com/leloc0609/HCMUT-DSA)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leloc0609&theme=bear&repo=HCMUT-MIPS Virtual Machine)](https://github.com/leloc0609/HCMUT-CA_VM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leloc0609&theme=bear&repo=MIPS Virtual Machine)](https://github.com/leloc0609/HCMUT-CA_VM)
