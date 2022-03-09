@@ -9,7 +9,7 @@ I'm a undergraduate in Computer Engineering at Ho Chi Minh City University of Te
 - 📫 How to reach me: lelocofficial@gmail.com
 
 My Top Languages Card <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leloc0609&langs_count=3&theme=nightowl)](https://github.com/leloc0609/)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leloc0609&langs_count=4&theme=nightowl)](https://github.com/leloc0609/)<br>
 
 Repos GitHub Extra Pins<br>
 
