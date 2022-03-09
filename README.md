@@ -11,5 +11,7 @@ I'm a undergraduate in Computer Engineering at Ho Chi Minh City University of Te
 My Top Languages Card <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leloc0609&langs_count=3&theme=nightowl)](https://github.com/leloc0609/)<br>
 
+Repos GitHub Extra Pins<br>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leloc0609&theme=bear&repo=HCMUT-DSA)](https://github.com/leloc0609/HCMUT-DSA)
 
