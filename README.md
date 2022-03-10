@@ -8,12 +8,12 @@ I'm a undergraduate in Computer Engineering at Ho Chi Minh City University of Te
 - 🌱 I’m currently learning ML and AI
 - 📫 How to reach me: lelocofficial@gmail.com
 
-![leloc0609's GitHub stats](https://github-readme-stats.vercel.app/api?username=leloc0609&theme=dark&show_icons=true)
+![leloc0609's GitHub stats](https://github-readme-stats.vercel.app/api?username=leloc0609&theme=gotham&show_icons=true)
 
 My Top Languages Card <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leloc0609&langs_count=4&theme=dark)](https://github.com/leloc0609/)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leloc0609&langs_count=4&theme=gotham)](https://github.com/leloc0609/)<br>
 
 Repos GitHub Extra Pins<br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leloc0609&theme=dark&repo=HCMUT-DSA)](https://github.com/leloc0609/HCMUT-DSA)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leloc0609&theme=dark&repo=HCMUT-MulProject)](https://github.com/leloc0609/HCMUT-MulProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leloc0609&theme=gotham&repo=HCMUT-DSA)](https://github.com/leloc0609/HCMUT-DSA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leloc0609&theme=gotham&repo=HCMUT-MulProject)](https://github.com/leloc0609/HCMUT-MulProject)
